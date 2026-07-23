@@ -1,5 +1,5 @@
-# Supply-Chain-Analytics-Power-BI
-Interactive Power BI dashboard for Supply Chain Analytics with SQL data preparation and business insights.
+
+
 # 📦 Supply Chain Analytics Dashboard | Power BI + SQL
 
 ## 📌 Project Overview
